@@ -1,0 +1,15 @@
+git clone repo
+// estos son comandos git
+git status
+// dentro del subdirectorio clonado
+git add .
+// todos los archivos a un lugar seguro de guardar
+
+git commit -m "heladeria mas comandos "
+
+// varios commit 
+
+git push origin master -f
+//alta helado 
+// listado 
+// formulario de instancia unica
